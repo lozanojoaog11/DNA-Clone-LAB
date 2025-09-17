@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Clonagem Mental DNA™",
+  "description": "An application to automate the creation of high-fidelity mental clones by extracting and synthesizing the 8 Cognitive Layers of Mental DNA™, following the 4-phase DEEP framework. Input a person's name and optional materials to generate a system prompt and knowledge base for any LLM.",
+  "requestFramePermissions": []
+}
